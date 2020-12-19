@@ -13,3 +13,5 @@ dependencies:
   - dask
   - tqdm
   - seaborn
+  - pytorch
+  - torchvision
